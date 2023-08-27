@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/ruchita-patil-098b01193/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/programmer-sahil/)](https://www.linkedin.com/in/programmer-sahil/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Sahil-green)]([https://www.sahil.com](https://www.facebook.com/profile.php?id=100063106990254))
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sahil-yellow)](https://stackoverflow.com/users/22454203/sk-sahil)
 
