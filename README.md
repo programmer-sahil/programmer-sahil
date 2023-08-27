@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-HelpingWallahNGO-red)]([https://shorturl.at/lMNY7](https://shorturl.at/lMNY7))
-[![Linkedin Badge](https://img.shields.io/badge/-Sahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/programmer-sahil/](https://www.linkedin.com/in/programmer-sahil/))]([https://www.linkedin.com/in/programmer-sahil/](https://www.linkedin.com/in/programmer-sahil/))
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Sahil-yellow)](https://stackoverflow.com/users/22454203/sk-sahil)
+[![Linkedin Badge](https://img.shields.io/badge/-Ruchita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/ruchita-patil-098b01193/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Ruchita-green)](https://www.ruchita)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Ruchita-yellow)](https://stackoverflow.com/users/21978514/ruchita-patil)
 
 I am a Passionate Full Stack Developer |1+ Years Coding Tutor Experience | MERN Stack Enthusiast | Coding Tutor | Problem Solver | Crafting Digital Solutions with HTML5, CSS3, JavaScript, and more 🚀
 
