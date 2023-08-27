@@ -2,7 +2,6 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)]([https://www.youtube.com/developerfunnel](https://www.youtube.com/channel/UCMlu2hCx2hCVImsZDaWLLKQ))
 [![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/programmer-sahil/](https://www.linkedin.com/in/programmer-sahil/))]([https://www.linkedin.com/in/programmer-sahil/](https://www.linkedin.com/in/programmer-sahil/))
-
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
 I am a Passionate Full Stack Developer |1+ Years Coding Tutor Experience | MERN Stack Enthusiast | Coding Tutor | Problem Solver | Crafting Digital Solutions with HTML5, CSS3, JavaScript, and more 🚀
