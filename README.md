@@ -12,12 +12,7 @@ The crossover between design and programming has always been of interest to me, 
 
 ![Visitor Count](https://profile-counter.glitch.me/programmer-sahil/count.svg)
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=programmer-sahil&column=7"/>
-  </a>
-</div>
+
 
 Languages and Tools: 
 
