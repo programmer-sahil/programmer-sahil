@@ -1,11 +1,12 @@
 <!-- 💻 SK SAHIL - PROFESSIONAL README -->
 
 <h1 align="center">Hi Developers 👋, I'm <span style="color:#00C2FF;">SK Sahil</span></h1>
-<h3 align="center">🌍 International Student | 💻 Full Stack Developer | 👨‍🏫 Coding Tutor | 🧠 AI Enthusiast</h3>
+<h3 align="center">🎓 German University Student 🇩🇪 | 💻 Freelance Software Developer 🌍 🇪🇺 🇺🇸 | 👨‍🏫 Coding Tutor | 💼 Investor 📈 | 🧠 AI & MERN Stack Enthusiast</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/programmer-sahil/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/web_developer_sahil/"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/code_scholar_eu/"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/22454203/sk-sahil"><img src="https://img.shields.io/badge/-Stackoverflow-F48024?style=for-the-badge&logo=StackOverflow&logoColor=white"/></a>
 </p>
 
@@ -55,7 +56,7 @@
 ### 🏆 Achievements  
 - 🌟 Taught 300+ students coding (Python, MERN, JavaScript)  
 - 🧠 Built 10+ live projects (MERN, AI, and Web Systems)  
-- 🌍 Collaborated with international teams (Germany, Kenya, India)  
+- 🌍 Collaborated with international teams (Germany, US, Kenya, India)  
 - 🎓 Student Ambassador at IU International University 🇩🇪  
 
 ---
