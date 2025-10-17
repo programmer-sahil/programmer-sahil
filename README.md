@@ -14,7 +14,7 @@
 
 ### 🚀 About Me  
 
-👨‍💻 I’m a **Passionate Full Stack Developer** with 1+ year of **Teaching Experience**.  
+👨‍💻 I’m a **Passionate Full Stack Developer** with 3+ year of **Teaching Experience**.  
 🌍 I collaborate on international projects across **Europe 🇩🇪 | Africa 🌍 | US 🇺🇸 | Asia 🌏**.  
 📚 Currently learning **AI Frameworks, Next.js, and Cloud Deployments.**  
 💡 My motto: *Code. Create. Believe.*  
