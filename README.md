@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/programmer-sahil/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/code_scholar_eu/"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/22454203/sk-sahil"><img src="https://images.seeklogo.com/logo-png/39/1/adobe-portfolio-logo-png_seeklogo-390095.png"/></a>
+  <a href="https://programmer-sahil.github.io/potfolio/"><img src="https://img.shields.io/badge/-portfolio-black?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ---
