@@ -1,4 +1,6 @@
 <!-- 💻 SK SAHIL - PROFESSIONAL README -->
+<img width="1584" height="396" alt="LinkedIn Background Photo (1)" src="https://github.com/user-attachments/assets/5c4cb6d4-b095-43e0-8a01-31754201ddb0" />
+
 
 <h1 align="center">Hi Developers 👋, I'm <span style="color:#00C2FF;">SK Sahil</span></h1>
 <h3 align="center">🎓 German University Student 🇩🇪 | 💻 Freelance Software Developer 🌍 🇪🇺 🇺🇸 | 👨‍🏫 Coding Tutor | 💼 Investor 📈 | 🧠 AI & MERN Stack Enthusiast</h3>
