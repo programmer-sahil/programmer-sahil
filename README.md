@@ -122,10 +122,6 @@ const sahil = {
 
 <br/>
 
-![Visitor Count](https://profile-counter.glitch.me/programmer-sahil/count.svg)
-
-<br/>
-
 ⭐ **Found my work helpful? Star a repo — it means the world!** ⭐
 
 <br/>
