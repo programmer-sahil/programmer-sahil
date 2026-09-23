@@ -83,21 +83,6 @@ const sahil = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=programmer-sahil&show_icons=true&theme=tokyonight&count_private=true&border_radius=12&hide_border=false" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=programmer-sahil&theme=tokyonight&border_radius=12&hide_border=false" alt="GitHub Streak"/>
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-sahil&layout=compact&theme=tokyonight&border_radius=12" alt="Top Languages"/>
-
-</div>
-
----
-
 ## 🌟 Achievements & Highlights
 
 <table align="center">
