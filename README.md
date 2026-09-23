@@ -98,16 +98,6 @@ const sahil = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=programmer-sahil&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🌟 Achievements & Highlights
 
 <table align="center">
@@ -132,16 +122,6 @@ const sahil = {
     <td><b>Freelance Clients</b> across Europe · Africa · Asia · Americas</td>
   </tr>
 </table>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=programmer-sahil&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
